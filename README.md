@@ -9,7 +9,7 @@ This is my initial version of internet of things starter kit (front-end, back-en
 
 ## Struktur Folder
 ```
-iot-monitoring-system/
+fullstack-iot-monitoring/
 ├── backend/                            # Node.js + Express.js API
 │   ├── src/
 │   │   ├── config/                     # Konfigurasi database dan env
